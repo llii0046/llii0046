@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Web3 Technologies**
 
-- 💬 Ask me about React, Nodejs, Redux, Graphql, Postgresql
+- 💬 Ask me about React, Nodejs, TypeScript
 
 - 📫 How to reach me **luxingg.li@gmail.com**
 
